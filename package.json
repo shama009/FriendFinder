@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finder app is used to find friends with similar interests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shama009/FriendFinder.git"
+  },
+  "author": "Shama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shama009/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/shama009/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
